@@ -1,4 +1,4 @@
-# DesenvolvimentoJavaComIADescrição:
+# Desenvolvimento Java Com IA Descrição:
 Bem-vindo ao repositório "Desenvolvimento Java com IA na DIO"! Este projeto foi criado como parte do curso de Desenvolvimento Java com Inteligência Artificial oferecido pela Digital Innovation One (DIO).
 
 Neste repositório, você encontrará uma coleção de exemplos, tutoriais e projetos práticos que combinam a linguagem de programação Java com técnicas e ferramentas de Inteligência Artificial (IA). O objetivo é fornecer uma base sólida para desenvolvedores que desejam explorar o potencial da IA utilizando Java.
