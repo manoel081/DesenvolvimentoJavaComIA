@@ -29,5 +29,5 @@
 
 ## Card - Repository
 
-| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=manoel081&repo=DesenvolvimentoJavaComIA&theme=dark)](https://github.com/manoel081/DesenvolvimentoJavaComIA) |
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=manoel081&repo=DesenvolvimentoJavaComIA&theme=dark)](https://github.com/manoel081/DesenvolvimentoJavaComIA) 
 
