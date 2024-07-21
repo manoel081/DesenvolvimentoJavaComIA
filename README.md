@@ -26,3 +26,8 @@
 
 <h3>Licença</h3>
 <p>Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.</p>
+
+## Card - Repository
+
+| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=manoel081&repo=DesenvolvimentoJavaComIA&theme=dark)](https://github.com/manoel081/DesenvolvimentoJavaComIA) |
+
